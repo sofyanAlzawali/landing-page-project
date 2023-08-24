@@ -152,3 +152,10 @@ button {
 .call-box button {
     border: 1px solid white;
 }
+
+footer {
+    background-color: var(--dark-color);
+    color: var(--hero-main);
+    padding: 30px;
+    text-align: center;
+}
