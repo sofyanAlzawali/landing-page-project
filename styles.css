@@ -110,3 +110,20 @@ button {
     margin-bottom: 10px;
     border-radius: 10px;
 }
+
+.quote {
+    padding: 100px;
+    background-color: var(--hero-secondary);
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+    text-align: center;
+}
+.quote .container span {
+    display: block;
+    text-align: right;
+    font-size: 24px;
+}
